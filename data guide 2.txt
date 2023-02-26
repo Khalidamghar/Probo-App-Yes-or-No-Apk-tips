@@ -33,70 +33,72 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbPncb.jpg",
+      "title": "Probo App Yes 1",
+        "text_Content": "Probo is a web-based app that is designed to help teams of developers, designers, and project managers collaborate on code and other software development tasks. The app provides a variety of features that help streamline the development process and improve productivity. In this article, we will discuss the pros and cons of using Probo app.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbPfV9.jpg",
+      "title": "Probo App Yes 2",
+        "text_Content": "Collaboration: One of the key benefits of using Probo is its ability to facilitate collaboration among team members. The app allows team members to work together in real-time, sharing code, comments, and feedback. This feature can help speed up the development process and improve the overall quality of the final product.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbPqPe.jpg",
+      "title": "Probo App Yes 3",
+        "text_Content": "Automated Testing: Another major advantage of using Probo is its automated testing capabilities. The app can automatically test code changes as they are made, helping to catch potential issues before they become major problems. This can save developers a significant amount of time and help ensure that the final product is as bug-free as possible.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbPCKu.jpg",
+      "title": "Probo App Yes 4",
+        "text_Content": "Integrated CI/CD: Probo also integrates with a variety of continuous integration and continuous delivery tools, making it easy to automate the deployment of code changes. This can help ensure that updates are rolled out quickly and efficiently, with minimal downtime or disruption.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbPoSj.jpg",
+      "title": "Probo App Yes 5",
+        "text_Content": "Simplified Workflow: Probo is designed to simplify the development workflow, making it easier for teams to collaborate and stay organized. The app provides a variety of tools and features that can help streamline the development process, such as code review, task management, and issue tracking.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbPzHx.jpg",
+      "title": "Probo App Yes 6",
+        "text_Content": "Cost-Effective: Finally, Probo is a cost-effective solution for software development teams. The app is priced based on usage, with plans available for teams of all sizes. This can help teams save money compared to other more expensive software development tools.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbPIAQ.jpg",
+      "title": "Probo App Yes 7",
+        "text_Content": "Learning Curve: While Probo is designed to be user-friendly, it can still take some time for teams to get used to using the app. This can be a drawback for teams that are already used to using other development tools and may be hesitant to switch to a new platform.
+
+",
+        "text_Content_1": ""
 
 
 
